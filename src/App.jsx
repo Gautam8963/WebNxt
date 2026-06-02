@@ -313,13 +313,13 @@ function Footer() {
         <div>
           <h3 className="mb-5 text-[12px] font-bold text-white">Get in touch</h3>
           <ul className="space-y-3 text-[11px] text-white/58">
-            <li>+1-234-456-7890</li>
-            <li>contact@example.com</li>
+            <li>+91 81694 51215</li>
+            <li>gautamdhodi02@gmail.com</li>
           </ul>
         </div>
       </div>
       <div className="site-container mt-10 border-t border-white/10 pt-6 text-center text-[11px] text-white/38">
-        Copyright 2025 © GreatStack. All Right Reserved.
+        Copyright 2026 © Gautam Dhodi. All Right Reserved.
       </div>
     </footer>
   );
