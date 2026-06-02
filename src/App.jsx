@@ -61,9 +61,9 @@ const movies = [
 const trailers = [
   "wp4926059 1.png",
   "wp7653796 1.png",
-  "wp9049788 1.png",
+  "wp9049807 1.png", 
   "wp9049781 1.png",
-  "wp9049807 1.png",
+  "wp9049788 1.png", 
 ];
 
 function Header() {
@@ -256,7 +256,7 @@ function TrailersSection() {
                 />
                 <span className="absolute inset-0 grid place-items-center bg-black/25 opacity-90">
                   {index === 0 ? (
-                    <img src={asset("Icon-pause.png")} alt="" className="h-7 w-7" />
+                    <img src={asset("Icon-paus e.png")} alt="" className="h-7 w-7" />
                   ) : (
                     <Play size={16} className="fill-white text-white" />
                   )}
